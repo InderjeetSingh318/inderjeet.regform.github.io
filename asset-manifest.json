@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inderjeet.regform.github.io/static/css/main.609fd1e9.css",
+    "main.js": "/inderjeet.regform.github.io/static/js/main.82ba369c.js",
+    "static/js/787.e6abdb9d.chunk.js": "/inderjeet.regform.github.io/static/js/787.e6abdb9d.chunk.js",
+    "index.html": "/inderjeet.regform.github.io/index.html",
+    "main.609fd1e9.css.map": "/inderjeet.regform.github.io/static/css/main.609fd1e9.css.map",
+    "main.82ba369c.js.map": "/inderjeet.regform.github.io/static/js/main.82ba369c.js.map",
+    "787.e6abdb9d.chunk.js.map": "/inderjeet.regform.github.io/static/js/787.e6abdb9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.609fd1e9.css",
+    "static/js/main.82ba369c.js"
+  ]
+}
